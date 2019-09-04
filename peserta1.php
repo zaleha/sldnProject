@@ -51,7 +51,7 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 1</h2>
         <span id="restaurant_list"></span>
     </div>
-    <div class="row-item">Nama:</div>
+    <div class="row-item">Nama:Nor</div>
     <div class="row-item">Alamat:</div>
 </body>
 </html>
