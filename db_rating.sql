@@ -1,64 +1,32 @@
---
--- Table structure for table `tbl_rating`
---
+/*
+Navicat MySQL Data Transfer
 
-CREATE TABLE `tbl_rating` (
-  `id` int(11) NOT NULL,
-  `user_id` int(11) NOT NULL DEFAULT '1',
-  `restaurant_id` int(11) NOT NULL,
-  `rating` int(2) NOT NULL,
-  `timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+Source Server         : local-mysql
+Source Server Version : 50625
+Source Host           : localhost:3306
+Source Database       : db_sldn
+
+Target Server Type    : MYSQL
+Target Server Version : 50625
+File Encoding         : 65001
+
+Date: 2019-09-04 12:52:04
+*/
+
+SET FOREIGN_KEY_CHECKS=0;
+
+-- ----------------------------
+-- Table structure for info_peserta
+-- ----------------------------
+DROP TABLE IF EXISTS `info_peserta`;
+CREATE TABLE `info_peserta` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nama` varchar(255) DEFAULT NULL,
+  `alamat` varchar(255) DEFAULT NULL,
+  `is_deleted` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
--- --------------------------------------------------------
-
---
--- Table structure for table `tbl_restaurant`
---
-
-CREATE TABLE `tbl_restaurant` (
-  `id` int(11) NOT NULL,
-  `name` varchar(100) NOT NULL,
-  `address` varchar(150) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
---
--- Dumping data for table `tbl_restaurant`
---
-
-INSERT INTO `tbl_restaurant` (`id`, `name`, `address`) VALUES
-(1, 'Malaysian Multi Cusine Restaurant', '12, FGH Enclave'),
-(2, 'Cafe Monarch', '78, GNT Park');
-
---
--- Indexes for dumped tables
---
-
---
--- Indexes for table `tbl_rating`
---
-ALTER TABLE `tbl_rating`
-  ADD PRIMARY KEY (`id`);
-
---
--- Indexes for table `tbl_restaurant`
---
-ALTER TABLE `tbl_restaurant`
-  ADD PRIMARY KEY (`id`);
-
---
--- AUTO_INCREMENT for dumped tables
---
-
---
--- AUTO_INCREMENT for table `tbl_rating`
---
-ALTER TABLE `tbl_rating`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
-
---
--- AUTO_INCREMENT for table `tbl_restaurant`
---
-ALTER TABLE `tbl_restaurant`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
-COMMIT;
+-- ----------------------------
+-- Records of info_peserta
+-- ----------------------------
