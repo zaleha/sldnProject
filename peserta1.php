@@ -51,8 +51,8 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 1</h2>
         <span id="restaurant_list"></span>
     </div>
-    <div class="row-item">Nama:</div>
-    <div class="row-item">Alamat:</div>
+    <div class="row-item">Nama: Muhammad Aiman Bin Azmi</div>
+    <div class="row-item">Alamat:28, Jalan Serindit 7, Taman Scientex, Pasir Gudang, Johor.</div>
 </body>
 </html>
 
