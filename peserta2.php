@@ -53,6 +53,8 @@ p.text-address {
     </div>
     <div class="row-item">Nama:</div>
     <div class="row-item">Alamat:</div>
+    <div class="row-item">No Telefon:</div>
+    <div class="row-item">Nama Penjaga:</div>
 </body>
 </html>
 
