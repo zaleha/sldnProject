@@ -51,8 +51,8 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 2</h2>
         <span id="restaurant_list"></span>
     </div>
-    <div class="row-item">Nama: Mohamad Zikry Amin Bin Mohamad Faisal</div>
-    <div class="row-item">Alamat: 37, Jalan Sentosa 4, Taman Nusa Damai, Pasir Gudang, Johor</div>
+    <div class="row-item">Nama: Mohamad Zikry Amin Bin Mohamad Faisal </div>
+    <div class="row-item">.Alamat: 37, Jalan Sentosa 4, Taman Nusa Damai, Pasir Gudang, Johor</div>
 </body>
 </html>
 
