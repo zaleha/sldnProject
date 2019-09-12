@@ -51,8 +51,8 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 3</h2>
         <span id="restaurant_list"></span>
     </div>
-    <div class="row-item">Nama:</div>
-    <div class="row-item">Alamat:</div>
+    <div class="row-item">Nama: haziqah hanisah binti mohd shah</div>
+    <div class="row-item">Alamat: no11 blok 50 Taman cendana ,81700 pasir gudang johor </div>
 </body>
 </html>
 
