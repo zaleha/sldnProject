@@ -51,8 +51,12 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 13</h2>
         <span id="restaurant_list"></span>
     </div>
-    <div class="row-item">Nama:</div>
-    <div class="row-item">Alamat:</div>
+    <div class="row-item">Nama: Mohamad Hafizul Hakim Bin Jumaat</div>
+<<<<<<< Updated upstream
+    <div class="row-item">Alamat: No 15 Jalan Kijang 3,Taman Scientex,81700Pasir Gudang,Johor</div>
+=======
+    <div class="row-item">Alamat: No 15 Jalan Kijang 3,Taman Scientex,81700 Pasir Gudang,Johor</div>
+>>>>>>> Stashed changes
 </body>
 </html>
 
