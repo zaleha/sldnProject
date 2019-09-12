@@ -51,8 +51,8 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 8</h2>
         <span id="restaurant_list"></span>
     </div>
-    <div class="row-item">Nama:</div>
-    <div class="row-item">Alamat:</div>
+    <div class="row-item">Nama:shuhadzly amizzad</div>
+    <div class="row-item">Alamat:No 73, jalan seri orkid 34 taman seri orkid</div>
 </body>
 </html>
 
