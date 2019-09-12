@@ -48,7 +48,7 @@ p.text-address {
 
 <body>
     <div class="container">
-        <h2>Rekod Maklumat Peserta 3</h2>
+        <h2>Rekod Maklumat Peserta 9</h2>
         <span id="restaurant_list"></span>
     </div>
     <div class="row-item">Nama: Muhammad Arif Bin Adam</div>
