@@ -51,8 +51,8 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 14</h2>
         <span id="restaurant_list"></span>
     </div>
-    <div class="row-item">Nama:</div>
-    <div class="row-item">Alamat:</div>
+    <div class="row-item">Nama: Mohamad Arif Bin Adam</div>
+    <div class="row-item">Alamat: No 20 Jalan Sejahtera 17</div>
 </body>
 </html>
 
