@@ -53,6 +53,8 @@ p.text-address {
     </div>
     <div class="row-item">Nama: Mohamad Hafizul Hakim Bin Jumaat</div>
     <div class="row-item">Alamat: No 15 Jalan Kijang 3,Taman Scientex,81700Pasir Gudang,Johor</div>
+
+    <input type="submit" name="submit" id="btn_pilih" value="Hantar"><input type="reset" name="kemaskini" id="btn_pilih" value="Kemaskini"><input type="delete" name="padam" id="btn_pilih" value="Padam">
 </body>
 </html>
 
