@@ -51,8 +51,8 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 3</h2>
         <span id="restaurant_list"></span>
     </div>
-    <div class="row-item">Nama:</div>
-    <div class="row-item">Alamat:</div>
+    <div class="row-item">Nama: Muhammad Arif Bin Adam</div>
+    <div class="row-item">Alamat: N0.20 Jalan Sejahtera 17 Taman Nusa Damai 81700 Pasir Gudang Johor</div>
 </body>
 </html>
 
