@@ -51,6 +51,7 @@ p.text-address {
         <h2>Rekod Maklumat Peserta 6</h2>
         <span id="restaurant_list"></span>
     </div>
+    <div class="row-item">Nama: Wan Muhammad Haziq Bin Wan Azahari</div>
     <div class="row-item">Alamat: 4079 JLN Jati 8 Bandar Putra 81000 Kulai Johor</div>
 </body>
 </html>
